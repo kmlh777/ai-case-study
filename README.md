@@ -2,23 +2,20 @@
 ## ** Advancing Technologies in HealthCare RCM 
    ##  Overview and Origin
 
-* R1 rcm (https://www.r1rcm.com/) 
+* R1 rcm (![<alt text>](<https://www.r1rcm.com/>)) 
 
-* R1 rcm was incorporated in 2003 as Accretive Health. In 2017 it was named to what we know now as R1 rcm. The company
-
-  was initially founded by two visionaries, Mary Tolen and Michael Cline, who joined forces to establish the company.
-
+* R1 rcm was incorporated in 2003 as Accretive Health. In 2017 it was named to what we know now as R1 rcm. The company was initially founded by two visionaries, Mary Tolen and Michael Cline, who joined forces to establish the company.*4
  The company came about out of a need following a signifcant patient data breach at Accrretive health. After several years of Senate inquiries and adapting to stringent regulatory requirements R1rcm was created. 
 
-* R1rcm initially was funded by the companies founders, with their own private investing and creating stratgic partnerships. 1.  Today it is funded by institutional investors, individual insiders, and mutual fund holders.	2
+ R1rcm initially was funded by the companies founders, with their own private investing and creating stratgic partnerships. *1  Today it is funded by institutional investors, individual insiders, and mutual fund holders. *2
 
 ## Business Activities
 
-* R1 continues to try and solve the inequities of productivity, decrese administrative burdens and bolster revenue.   R1 partners with health systems to increase their revenue cycle performance, their staff productivity, and ultimatly the patients experience from beginning to end. 
+* R1 continues to try and solve the inequities of productivity, decrese administrative burdens and bolster revenue.   R1 partners with health systems to increase their revenue cycle performance, their staff productivity, and ultimatly the patients experience from beginning to end. *4
 
 * R1rcm centers its customer focus on Health system, hospitals, medical groups, physicians though out the United States.  
 
-* R1 rcm uses LLM to increase quality in the EMR-electronic medical record processes, patient billing and collections processes, pricing integrity, physician documentation and coding services.  Increasing productivity and easing burdens allowing providers more time to care for patients, and increasing revenue to provide more services to patients. 
+>" R1 is the leading provider of technology-driven solutions that transform the patient experience and financial performance of hospitals, health systems and medical groups. We are the one company that combines the deep expertise of a global workforce of revenue cycle professionals with the industry’s most advanced technology platform, encompassing sophisticated analytics, AI, intelligent automation and workflow orchestration. " *5
 
 * R1rcm is using and working with Intelligent Automations, Deep-Data analytics, contract modeling and pricing engines,  validating reimbursement accuracy. Currently R1 rcm is using Azure Ai Studio, Open Ai and other Azure tools.  In November  2023 R1 rcm expanded a collaboration with Microsoft to accelerate developement and integration with generative AI. In less than 4 months a LLM process was implemented that is increasing productivity for clients. *3
 
@@ -48,7 +45,8 @@
 
 
 
-Addendum: 1.  (https://www.crunchbase.com/organization/accretive-health)
-          2.  (https://www.mordorintelligence.com/industry-reports/revenue-cycle-management-market/companies) 
-          3.  (https://www.r1rcm.com/our-platform/)
-          4.  (https://dcf.fm/blogs/blog/rcm-history-mission-ownership#google_vignette)
+Addendum: 1.  [(https://www.crunchbase.com/organization/accretive-health)]
+          2.  [(https://www.mordorintelligence.com/industry-reports/revenue-cycle-management-market/companies)] 
+          3.  [(https://www.r1rcm.com/our-platform/)]
+          4.  [(https://dcf.fm/blogs/blog/rcm-history-mission-ownership#google_vignette)]
+          5.  [(https://www.hfma.org/data-and-insights/peer-review/products-and-services/technology-enabled-revenue-cycle-management-services/)]
