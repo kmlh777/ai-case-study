@@ -1,5 +1,5 @@
 # ai-case-study
-## ** Advancing Technologies in HealthCare RCM 
+## Advancing Technologies in HealthCare RCM 
    ##  Overview and Origin
 
 * R1 rcm (![<alt text>](<https://www.r1rcm.com/>)) 
