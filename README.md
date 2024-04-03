@@ -2,7 +2,7 @@
 ## Advancing Technologies in HealthCare RCM 
    ##  Overview and Origin
 
-* R1 rcm (![<alt text>](<https://www.r1rcm.com/>)) 
+* R1 rcm [(<https://www.r1rcm.com/>)] 
 
 * R1 rcm was incorporated in 2003 as Accretive Health. In 2017 it was named to what we know now as R1 rcm. The company was initially founded by two visionaries, Mary Tolen and Michael Cline, who joined forces to establish the company.*4
  The company came about out of a need following a signifcant patient data breach at Accrretive health. After several years of Senate inquiries and adapting to stringent regulatory requirements R1rcm was created. 
